@@ -10,3 +10,4 @@
 - VS Code
 - Браузер
 - OpenVPN
+- KeepassXC
